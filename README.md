@@ -6,7 +6,7 @@ This repository contains the CPE 523 assignment for Group 4. It includes a Jupyt
 
 To run this notebook locally, you will need:
 1. **Python 3.x** installed on your machine.
-2. The **dataset**: `mod_bank_additional_1.csv`. 
+2. The **dataset**: `mod_bank_additional.csv`. 
    > **Important:** Please ensure this CSV file is placed in the exact same directory as the notebook before execution.
 
 ## Local Setup & Execution Instructions
