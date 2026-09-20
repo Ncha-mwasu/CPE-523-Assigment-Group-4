@@ -1,0 +1,7 @@
+Comparison,Wilcoxon_Raw_p,Holm_Adjusted_p,Effect_Size_r,Magnitude,Significant_at_0.05
+Decision_Tree vs Logistic_Regression,6.103515625e-05,0.0003662109375,1.0350606330631753,Large,True
+Decision_Tree vs Neural_Network_MLP,6.103515625e-05,0.00030517578125,1.0350606330631753,Large,True
+Decision_Tree vs Random_Forest,6.103515625e-05,0.000244140625,1.0350606330631753,Large,True
+Logistic_Regression vs Neural_Network_MLP,0.0001220703125,0.0001220703125,0.991982237482143,Large,True
+Logistic_Regression vs Random_Forest,6.103515625e-05,0.00018310546875,1.0350606330631753,Large,True
+Neural_Network_MLP vs Random_Forest,6.103515625e-05,0.0001220703125,1.0350606330631753,Large,True
